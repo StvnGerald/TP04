@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{7C40501E-FCF5-4F1D-9B69-2F59CF4EFDE0}|TPMOD4\\TPMOD4.csproj|solutionrelative:tpmod4\\kodeposmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7C40501E-FCF5-4F1D-9B69-2F59CF4EFDE0}|TPMOD4\\TPMOD4.csproj|c:\\users\\steve\\source\\repos\\tpmod4\\tpmod4\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C40501E-FCF5-4F1D-9B69-2F59CF4EFDE0}|TPMOD4\\TPMOD4.csproj|solutionrelative:tpmod4\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C40501E-FCF5-4F1D-9B69-2F59CF4EFDE0}|TPMOD4\\TPMOD4.csproj|c:\\users\\steve\\source\\repos\\tpmod4\\tpmod4\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C40501E-FCF5-4F1D-9B69-2F59CF4EFDE0}|TPMOD4\\TPMOD4.csproj|solutionrelative:tpmod4\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\TPMOD4\\TPMOD4\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "TPMOD4\\DoorMachine.cs",
+              "ToolTip": "C:\\Users\\steve\\source\\repos\\TPMOD4\\TPMOD4\\DoorMachine.cs",
+              "RelativeToolTip": "TPMOD4\\DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:09:35.524Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +45,20 @@
               "RelativeDocumentMoniker": "TPMOD4\\KodePosMain.cs",
               "ToolTip": "C:\\Users\\steve\\source\\repos\\TPMOD4\\TPMOD4\\KodePosMain.cs",
               "RelativeToolTip": "TPMOD4\\KodePosMain.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T15:41:23.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "KodePos.cs",
               "DocumentMoniker": "C:\\Users\\steve\\source\\repos\\TPMOD4\\TPMOD4\\KodePos.cs",
               "RelativeDocumentMoniker": "TPMOD4\\KodePos.cs",
               "ToolTip": "C:\\Users\\steve\\source\\repos\\TPMOD4\\TPMOD4\\KodePos.cs",
               "RelativeToolTip": "TPMOD4\\KodePos.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T15:41:07.954Z",
               "EditorCaption": ""
